@@ -4,7 +4,7 @@ Happy to see you here. Let me walk through the magic 🧙‍♂️ I keep on doi
 ### Who am I? 🤨
 Ciao! I am Kanishk Gupta a developer, student and a keen learner ready to help this comunity grow. Ever tried a google search 🤔, try google me [here](https://www.google.com/search?q=gkanishk) and find some the interesting activities I keep on doing.  
 
-![msp](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/msp.png) ![ibm](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/ibm.png)  
+[![msp](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/msp.png)](https://studentpartners.microsoft.com/en-us/Account/DisplayMSPCertificate?url=59811a32917a4f6fae6ca8e4fd28ad40)  [![ibm](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/ibm.png)](https://www.youracclaim.com/badges/38c86a20-f6fa-4e11-b5ab-2f94906b4a20/linked_in_profile)
 
 ### I am curious about!
 - Working on new technologies 💻  
