@@ -2,7 +2,8 @@
 Happy to see you here. Let me walk through the magic 🧙‍♂️ I keep on doing.
 
 ### Who am I?
-Ciao! I am Kanishk Gupta ever tried a google search 🤔, try google me [here](https://www.google.com/search?q=gkanishk) and find some the interesting activities I keep on doing.
+Ciao! I am Kanishk Gupta ever tried a google search 🤔, try google me [here](https://www.google.com/search?q=gkanishk) and find some the interesting activities I keep on doing.  
+
 ![msp](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/msp.png) ![msp](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/ibm.png)
 
 
