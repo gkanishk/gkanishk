@@ -13,7 +13,7 @@ Ciao! I am Kanishk Gupta a developer, student and a keen learner ready to help t
 - Take sessions and help others grow 🤝
 
 #### Open Source:
-I love contributing to open source organisations some of them I have contributed to:  
+I love contributing to open source organisations, some of them I have contributed:  
 ![ms](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/ms.png)    ![fb](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/fb.png)    ![form](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/form.png) and more...
 
 #### How to contact me? 📞
