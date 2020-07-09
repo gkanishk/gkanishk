@@ -2,7 +2,7 @@
 Happy to see you here. Let me walk through the magic 🧙‍♂️ I keep on doing.
 
 ### Who am I? 🤨
-Ciao! I am Kanishk Gupta a developer, student and a keen learner ready to help this community grow. Ever tried a Google search 🤔, try to google me [here](https://www.google.com/search?q=gkanishk) and find some the interesting activities I keep on doing.  
+Ciao! I am Kanishk Gupta a developer, student and a keen learner ready to help this community grow. Ever tried a Google search 🤔, try to google me [here](https://www.google.com/search?q=gkanishk) and find some interesting activities I keep on doing.  
 
 [![msp](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/msp.png)](https://studentpartners.microsoft.com/en-us/Account/DisplayMSPCertificate?url=59811a32917a4f6fae6ca8e4fd28ad40)  [![ibm](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/ibm.png)](https://www.youracclaim.com/badges/38c86a20-f6fa-4e11-b5ab-2f94906b4a20/linked_in_profile) ![acm](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/acm.png)
 
