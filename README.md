@@ -8,7 +8,7 @@ Ciao! I am Kanishk Gupta a developer, student and a keen learner ready to help t
 
 ### I am curious about!
 - Working on new technologies 💻  
-- Take part in a hackathon 🐱‍💻 
+- Taking part in hackathons 🐱‍💻 
 - Drink coffee ☕ obviously!!
 - Take sessions and help other grow 🤝
 
