@@ -19,7 +19,7 @@ I love contributing to open source organisations, some of them I have contribute
 #### How to contact me? 📞
 [LinkedIn](https://linkedin.com/in/gkanishk) | [twitter](https://twitter.com/gkanishk_) | [facebook](https://www.facebook.com/gkanishk1) | [Quora](https://www.quora.com/profile/Kanishk-Gupta-51) | [blog](https://gkanishk-blog.netlify.app/)
 
-<img align="left" alt="gkanishk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gkanishk&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="gkanishk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gkanishk&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" />
 
 
 <!--
