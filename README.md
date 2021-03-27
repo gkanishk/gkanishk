@@ -17,7 +17,7 @@ Ciao! I am Kanishk Gupta a developer, student and a keen learner ready to help t
 I love contributing to open source organisations, some of them I have contributed:  
 [![ms](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/ms.png)](https://github.com/microsoft/vscode-docs/blob/master/README.md)    [![fb](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/f.png)](https://github.com/facebook/jest/pull/10211)    [![form](https://raw.githubusercontent.com/gkanishk/gkanishk/master/assets/form.png)](https://github.com/formik/formik) and more...
 
-#### How to contact me? 📞
+#### Let's connect? 📞
 [LinkedIn](https://linkedin.com/in/gkanishk) | [twitter](https://twitter.com/gkanishk_) | [facebook](https://www.facebook.com/gkanishk1) | [Quora](https://www.quora.com/profile/Kanishk-Gupta-51) | [blog](https://gkanishk-blog.netlify.app/)
 
 <img align="left" alt="gkanishk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gkanishk&show_icons=true&hide_border=true&theme=tokyonight&hide=stars" />
